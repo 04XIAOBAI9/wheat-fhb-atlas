@@ -11,3 +11,5 @@ WheatFHB Atlas is a public-benefit, evidence-backed map of published wheat Fusar
 This repository contains the generated website files used by GitHub Pages. The maintainable source project and research working materials are kept separately. No open-source or open-data license is granted unless an explicit license file is added later.
 
 本仓库保存 GitHub Pages 使用的网页成品文件；可维护的源代码和研究工作材料另行保存。在后续明确添加许可文件之前，本仓库不授予开源或开放数据许可。
+
+Current public data release / 当前公开数据版本：**v0.2.2**
