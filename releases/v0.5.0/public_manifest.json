@@ -1,0 +1,22 @@
+{
+  "version": "v0.5.0",
+  "released_at": "2026-08-14",
+  "assembly": "IWGSC Chinese Spring RefSeq v1.0 assembly coordinates; v1.1 annotation coordinates compatible",
+  "public_loci_n": 234,
+  "frozen_study_units_n": 52,
+  "frozen_all_locus_records_n": 653,
+  "public_scope": "strict-primary interactive layer plus complete checked locus, screening, coordinate-audit, lifecycle, disposition, and aggregate-analysis tables",
+  "not_redistributed": [
+    "source full-text PDFs and supplements",
+    "temporary extraction notes",
+    "integrity-audit working cache"
+  ],
+  "frozen_source_sha256": {
+    "study_units": "ef8b62ab405d05a368446eccf9d720994336fec170aff1d5a1dc2a0b36a42eb3",
+    "loci": "5a1250e1ed72360f69cf9232ead6753bbfd2035f7158b6e997a668281288a7e0",
+    "coordinate_audits": "174a2de5902b3e979ad40fa1f65cd65a44306a5ef493a9b81b10a89c8a9649fd",
+    "unplaced_evidence": "438153e4488dc5ae5635445a24e6eae8fe6d602754e2ae228a0006697b694d94",
+    "lifecycle": "ec604ea97851bb369243fec583636358f20c40a9ce7deb96f932069aeeaa9d64",
+    "screening_dispositions": "b85081a4f3c11634cef959c3597fc5bea165171ba28c59375713a66cc7902f33"
+  }
+}

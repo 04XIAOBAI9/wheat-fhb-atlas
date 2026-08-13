@@ -4,12 +4,12 @@
 
 Public website: <https://04XIAOBAI9.github.io/wheat-fhb-atlas/>
 
-Version **v0.4.0** adds a frozen 2020–2026 longitudinal evidence update: 25 frozen study units, 387 locally archived locus records, 220 strict-primary RefSeq v1.0-comparable public loci, dataset-family-aware aggregate enrichment analyses, and seven sensitivity scenarios.
+Version **v0.5.0** opens the checked longitudinal evidence layer: 52 frozen study units, 653 unique locus records, 653 coordinate audits, 524 literature-screening records, 11 locus-lifecycle records, and 234 strict-primary RefSeq v1.0-comparable loci. The website also exposes ten family-cluster-preserving sensitivity analyses.
 
-This pre-publication public layer contains only the 220 strict-primary loci, source-paper links, aggregate analyses, and a manifest of the controlled disclosure boundary. The complete screening queue, excluded/non-primary locus table, record-level coordinate-audit table, scientific report, research workbook, and integrity-audit working files remain in the local reproducibility archive until explicit release authorization or publication.
+The interactive map and batch-SNP analysis use only the 234 strict-primary comparable loci. The full checked table, retained exclusions, screening states, coordinate audits, lifecycle links, full-text disposition, aggregate analyses, release counts, and hashes are downloadable for reproducibility. Source PDFs, supplementary files, and temporary extraction notes are not redistributed.
 
-This repository contains only generated public website files and versioned public release artifacts. The maintainable source repository and research workspaces are kept separately.
+This repository contains generated public website files and versioned release artifacts. The maintainable source repository and research workspaces are kept separately.
 
-Coordinates are displayed against IWGSC Chinese Spring RefSeq v1.0. Unsupported assembly conversions, genetic-only loci, alien introgressions, and excluded broad/uncertain records are never silently forced into the primary physical-coordinate layer.
+Coordinates are displayed against IWGSC Chinese Spring RefSeq v1.0. Unsupported assembly conversions, genetic-only loci, alien introgressions, and excluded broad/uncertain records are never silently forced into the primary physical-coordinate layer. Journal impact factor is display metadata only and is never used as an evidence weight.
 
 Latin letters and numerals use Times New Roman, with Chinese glyphs falling back to locally available CJK fonts.

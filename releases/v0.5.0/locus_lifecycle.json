@@ -1,0 +1,247 @@
+[
+  {
+    "event_id": "LE-2019-WUHAN-1AL-EARLY",
+    "study_unit_id": "SU-2019-WUHAN1-NYUBAI-81-EARLYQTL",
+    "dataset_family_id": "DF-WUHAN1-NYUBAI-DH",
+    "related_locus_record_ids": [
+      "LR-2019-WUHAN-NYUBAI-1AL-EARLY"
+    ],
+    "locus_name": "1AL early-DON QTL",
+    "evidence_stage": "same-family phenotype extension plus multi-omics candidate prioritization",
+    "evidence_types": [
+      "QTL mapping",
+      "physical projection",
+      "cis/trans eQTL",
+      "differential expression"
+    ],
+    "independent_population_family": false,
+    "key_results": "New DON QTL in this family; Wuhan 1 favorable allele; 11.52-Mb interval; eight intersected candidates, with TraesCS1A01G426000 highlighted.",
+    "interpretation_boundary": "Candidate prioritization does not establish the causal gene; the experiment adds a phenotype/time-point layer to one population family.",
+    "source_locator": "PMC6892237 Results, Figures 1-4 and Table 1",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-WUHAN-4BS-EARLY",
+    "study_unit_id": "SU-2019-WUHAN1-NYUBAI-81-EARLYQTL",
+    "dataset_family_id": "DF-WUHAN1-NYUBAI-DH",
+    "related_locus_record_ids": [
+      "LR-2019-WUHAN-NYUBAI-4BS-EARLY"
+    ],
+    "locus_name": "4BS early-infection QTL",
+    "evidence_stage": "same-family temporal confirmation plus multi-omics candidate prioritization",
+    "evidence_types": [
+      "QTL mapping",
+      "same-population confirmation",
+      "eQTL hotspot",
+      "differential expression"
+    ],
+    "independent_population_family": false,
+    "key_results": "4BS region was detected at 2 dpi and had a trans-eQTL hotspot; TraesCS4B01G024600 was highlighted.",
+    "interpretation_boundary": "Confirmation is within the same Wuhan 1 x Nyubai family and is not independent replication.",
+    "source_locator": "PMC6892237 Results and Discussion",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-WUHAN-5A-EARLY",
+    "study_unit_id": "SU-2019-WUHAN1-NYUBAI-81-EARLYQTL",
+    "dataset_family_id": "DF-WUHAN1-NYUBAI-DH",
+    "related_locus_record_ids": [
+      "LR-2019-WUHAN-NYUBAI-5A-EARLY"
+    ],
+    "locus_name": "5A early-infection QTL",
+    "evidence_stage": "same-family temporal confirmation with low-resolution physical projection",
+    "evidence_types": [
+      "QTL mapping",
+      "same-population confirmation",
+      "differential expression"
+    ],
+    "independent_population_family": false,
+    "key_results": "Nyubai favorable allele; source physical projection spans 21.67-461.45 Mb across the centromere.",
+    "interpretation_boundary": "The broad interval cannot support gene-level localization; two intersected genes remain candidates only.",
+    "source_locator": "PMC6892237 Results, Figure 3 and Table 1",
+    "curation_labels": [
+      {
+        "type": "low_resolution_projection",
+        "color": "orange",
+        "display_text_zh": "（低分辨率投影）",
+        "display_text_en": "(low-resolution projection)",
+        "details_zh": "原文把跨着丝粒的一-LOD区间投影为21.67–461.45 Mb；区间宽约439.78 Mb。作者明确归因于着丝粒附近低重组和标记/基因密度下降。",
+        "verifiable_fact": "Author-reported RefSeq v1.0 physical projection spans 439.78 Mb across the centromere; it is not gene-level localization."
+      }
+    ]
+  },
+  {
+    "event_id": "LE-2019-NIL-FHB1",
+    "study_unit_id": "SU-2019-SUMAI3-NIL-GO-ALSASK-70",
+    "dataset_family_id": "DF-SUMAI3-NIL-CDC-GO-ALSASK",
+    "related_locus_record_ids": [],
+    "locus_name": "Fhb1",
+    "evidence_stage": "near-isogenic-line validation across genetic backgrounds",
+    "evidence_types": [
+      "NIL",
+      "greenhouse point inoculation",
+      "multi-environment field validation",
+      "DON phenotyping"
+    ],
+    "independent_population_family": true,
+    "key_results": "Fhb1 effects differed between CDC Alsask and CDC Go backgrounds; single-gene classes did not uniformly improve every phenotype in both backgrounds.",
+    "interpretation_boundary": "Validation is background- and phenotype-dependent; the paper does not support a universal additive effect.",
+    "source_locator": "PMC6499950 Tables 1-3",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-NIL-FHB2",
+    "study_unit_id": "SU-2019-SUMAI3-NIL-GO-ALSASK-70",
+    "dataset_family_id": "DF-SUMAI3-NIL-CDC-GO-ALSASK",
+    "related_locus_record_ids": [],
+    "locus_name": "Fhb2",
+    "evidence_stage": "near-isogenic-line validation across genetic backgrounds",
+    "evidence_types": [
+      "NIL",
+      "greenhouse point inoculation",
+      "multi-environment field validation",
+      "DON phenotyping"
+    ],
+    "independent_population_family": true,
+    "key_results": "Fhb2 effects differed between CDC Alsask and CDC Go backgrounds; single-gene classes did not uniformly improve every phenotype in both backgrounds.",
+    "interpretation_boundary": "Validation is background- and phenotype-dependent; the paper does not support a universal additive effect.",
+    "source_locator": "PMC6499950 Tables 1-3",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-NIL-FHB5",
+    "study_unit_id": "SU-2019-SUMAI3-NIL-GO-ALSASK-70",
+    "dataset_family_id": "DF-SUMAI3-NIL-CDC-GO-ALSASK",
+    "related_locus_record_ids": [],
+    "locus_name": "Fhb5",
+    "evidence_stage": "near-isogenic-line validation across genetic backgrounds",
+    "evidence_types": [
+      "NIL",
+      "greenhouse point inoculation",
+      "multi-environment field validation",
+      "DON phenotyping"
+    ],
+    "independent_population_family": true,
+    "key_results": "Fhb5 effects differed between CDC Alsask and CDC Go backgrounds; single-gene classes did not uniformly improve every phenotype in both backgrounds.",
+    "interpretation_boundary": "Validation is background- and phenotype-dependent; the paper does not support a universal additive effect.",
+    "source_locator": "PMC6499950 Tables 1-3",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-NIL-FHB1-FHB2-FHB5-PYRAMID",
+    "study_unit_id": "SU-2019-SUMAI3-NIL-GO-ALSASK-70",
+    "dataset_family_id": "DF-SUMAI3-NIL-CDC-GO-ALSASK",
+    "related_locus_record_ids": [],
+    "locus_name": "Fhb1 + Fhb2 + Fhb5",
+    "evidence_stage": "gene-pyramiding and background-dependence validation",
+    "evidence_types": [
+      "NIL",
+      "gene combinations",
+      "greenhouse",
+      "six-environment field summary",
+      "epistasis"
+    ],
+    "independent_population_family": true,
+    "key_results": "The three-gene class reduced field incidence/severity/index/DON by 9/32/37/49% in CDC Alsask and 14/20/26/40% in CDC Go relative to recurrent parents; combinations were not uniformly additive.",
+    "interpretation_boundary": "No three-gene NIL matched the resistant donor/check; residual minor loci and significant marker interactions remained.",
+    "source_locator": "PMC6499950 Results, Tables 2-4",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-QFHB-MGB-2A-FINEMAP",
+    "study_unit_id": "SU-2019-QFHB-MGB-2A-WAK2",
+    "dataset_family_id": "DF-DURUM-02-5B-318-SARAGOLLA",
+    "related_locus_record_ids": [
+      "LR-2016-MGB-2AS"
+    ],
+    "locus_name": "QFhb.mgb-2A",
+    "evidence_stage": "same-family marker enrichment and fine mapping",
+    "evidence_types": [
+      "enriched linkage map",
+      "ICIM",
+      "GCIM",
+      "functional marker"
+    ],
+    "independent_population_family": false,
+    "key_results": "The source re-mapped the region to 5.3 cM between IWB5988 and IWA5087, with IWB63138 as the closest marker and R2=12%.",
+    "interpretation_boundary": "This is a refinement of the 2016 02-5B-318 x Saragolla population, not an independent QTL discovery; no RefSeq v1.0 physical interval is reported.",
+    "source_locator": "PMC6502796 Table 1 and Figures 1-2",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-QFHB-MGB-2A-WAK2",
+    "study_unit_id": "SU-2019-QFHB-MGB-2A-WAK2",
+    "dataset_family_id": "DF-DURUM-02-5B-318-SARAGOLLA",
+    "related_locus_record_ids": [
+      "LR-2016-MGB-2AS"
+    ],
+    "locus_name": "WAK2 at QFhb.mgb-2A",
+    "evidence_stage": "candidate-gene sequence, expression, haplotype and targeted-mutant support",
+    "evidence_types": [
+      "candidate sequence",
+      "10 selected RIL haplotypes",
+      "qRT-PCR",
+      "WAK2-FHB-2A marker",
+      "Kronos TILLING assay"
+    ],
+    "independent_population_family": false,
+    "key_results": "Resistant and susceptible parents/selected RILs differed in WAK2 sequence and expression; three predicted WAK2 loss-of-function mutant lines showed severe FHB symptoms in the source assay.",
+    "interpretation_boundary": "Strong functional support is retained, while two internal reporting differences are exposed for source-level checking; the database does not infer a modern physical QTL interval from the candidate gene.",
+    "source_locator": "PMC6502796 Results, Table 2 and Figures 4-9",
+    "curation_labels": [
+      {
+        "type": "database_level_source_inconsistency",
+        "color": "red",
+        "display_text_zh": "（原文表述需复核）",
+        "display_text_en": "(source statements require checking)",
+        "details_zh": "数据库仅记录两项原文内部差异：表2把Kronos3340和Kronos4209列为het，而方法称用于测定的靶突变植株经测序选为纯合；表2给Kronos3965的SIFT为0.87，而结果段称三个WAK2突变均SIFT<0.05。数据库不据此否定作者结论。",
+        "verifiable_facts": [
+          "Table 2 labels WAK2 mutants Kronos3340 and Kronos4209 as heterozygous, whereas the Methods says plants carrying targeted mutations in homozygous status were selected by sequencing.",
+          "Table 2 reports SIFT=0.87 for Kronos3965, whereas the Results text says all three WAK2 mutations had SIFT scores <0.05."
+        ]
+      }
+    ]
+  },
+  {
+    "event_id": "LE-2019-WUHAN-2DL-REMAP",
+    "study_unit_id": "SU-2019-WUHAN1-NYUBAI-104-2DL-EQTL",
+    "dataset_family_id": "DF-WUHAN1-NYUBAI-DH",
+    "related_locus_record_ids": [
+      "LR-2019-WUHAN-NYUBAI-2DL-SFI"
+    ],
+    "locus_name": "Wuhan 1 2DL FHB_SFI QTL",
+    "evidence_stage": "same-family high-density re-mapping",
+    "evidence_types": [
+      "90K+SSR map",
+      "composite interval mapping",
+      "10,000 permutations",
+      "two-LOD interval"
+    ],
+    "independent_population_family": false,
+    "key_results": "Peak 59.9 cM, interval 55.9-67.4 cM, LOD 15.99 and PVE 55.5% in 104 DH lines.",
+    "interpretation_boundary": "No physical QTL boundaries were reported; this is a re-analysis of the established Wuhan 1 x Nyubai family.",
+    "source_locator": "PMC6528218 Table 2 and Figure 4",
+    "curation_labels": []
+  },
+  {
+    "event_id": "LE-2019-WUHAN-2DL-CANDIDATE",
+    "study_unit_id": "SU-2019-WUHAN1-NYUBAI-104-2DL-EQTL",
+    "dataset_family_id": "DF-WUHAN1-NYUBAI-DH",
+    "related_locus_record_ids": [
+      "LR-2019-WUHAN-NYUBAI-2DL-SFI"
+    ],
+    "locus_name": "TraesCS2D02G440500 / UN25696 candidate layer",
+    "evidence_stage": "expression-marker and candidate prioritization",
+    "evidence_types": [
+      "three NIL pairs",
+      "four contrasting genotypes",
+      "85-line expression mapping",
+      "eQTL"
+    ],
+    "independent_population_family": false,
+    "key_results": "TraesCS2D02G440500 eQTL overlapped the FHB genetic interval; UN25696 was nearby; expression was associated with lower symptoms.",
+    "interpretation_boundary": "The authors explicitly require gene silencing or overexpression; neither candidate coordinate is treated as the physical QTL boundary.",
+    "source_locator": "PMC6528218 Tables 1-2 and Discussion",
+    "curation_labels": []
+  }
+]

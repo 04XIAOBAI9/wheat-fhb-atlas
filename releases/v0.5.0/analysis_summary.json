@@ -1,0 +1,807 @@
+{
+  "summary": {
+    "enrichment": {
+      "analysis": "1_historical_hcm_overlap_enrichment",
+      "permutations": 100000,
+      "seed": 20260813,
+      "null_model": "chromosome-stratified random placement preserving each locus width and chromosome; point records remain zero-width points",
+      "actual": {
+        "locus_hits": 54,
+        "loci_n": 234,
+        "locus_hit_fraction": 0.23076923076923078,
+        "study_units_with_hit": 14,
+        "study_units_n": 20,
+        "dataset_families_with_hit": 14,
+        "dataset_families_n": 19
+      },
+      "null": {
+        "locus_hits_mean": 24.54862,
+        "locus_hits_sd": 4.4955531579083,
+        "study_hits_mean": 11.24947,
+        "family_hits_mean": 11.21979
+      },
+      "empirical_p_upper": {
+        "locus": 0.00000999990000099999,
+        "study": 0.10429895701042989,
+        "family": 0.09894901050989491
+      },
+      "interpretation_limit": "Overlap validates positional recurrence, not causality. Broad LD/linkage spans increase expected random overlap and are preserved in the null model."
+    },
+    "lifecycle": {
+      "2019": {
+        "families_n": 2,
+        "families_hitting_hcm_n": 1,
+        "hit_fraction": 0.5,
+        "loci_n": 3
+      },
+      "2020": {
+        "families_n": 4,
+        "families_hitting_hcm_n": 2,
+        "hit_fraction": 0.5,
+        "loci_n": 23
+      },
+      "2021": {
+        "families_n": 1,
+        "families_hitting_hcm_n": 0,
+        "hit_fraction": 0,
+        "loci_n": 3
+      },
+      "2022": {
+        "families_n": 3,
+        "families_hitting_hcm_n": 3,
+        "hit_fraction": 1,
+        "loci_n": 30
+      },
+      "2023": {
+        "families_n": 2,
+        "families_hitting_hcm_n": 1,
+        "hit_fraction": 0.5,
+        "loci_n": 70
+      },
+      "2024": {
+        "families_n": 2,
+        "families_hitting_hcm_n": 2,
+        "hit_fraction": 1,
+        "loci_n": 8
+      },
+      "2025": {
+        "families_n": 5,
+        "families_hitting_hcm_n": 5,
+        "hit_fraction": 1,
+        "loci_n": 97
+      }
+    },
+    "traits": [
+      {
+        "trait": "DON/toxin accumulation",
+        "loci_n": 34,
+        "hit_loci_n": 13,
+        "hit_fraction": 0.38235294117647056,
+        "dataset_families_n": 8,
+        "hcm_ids": [
+          "hcmQTL-1",
+          "hcmQTL-3",
+          "hcmQTL-4",
+          "hcmQTL-29",
+          "hcmQTL-30",
+          "hcmQTL-33",
+          "hcmQTL-34",
+          "hcmQTL-37",
+          "hcmQTL-65",
+          "hcmQTL-67",
+          "hcmQTL-69",
+          "hcmQTL-70",
+          "hcmQTL-6",
+          "hcmQTL-7",
+          "hcmQTL-17"
+        ]
+      },
+      {
+        "trait": "spread/severity",
+        "loci_n": 133,
+        "hit_loci_n": 43,
+        "hit_fraction": 0.3233082706766917,
+        "dataset_families_n": 13,
+        "hcm_ids": [
+          "hcmQTL-1",
+          "hcmQTL-3",
+          "hcmQTL-4",
+          "hcmQTL-29",
+          "hcmQTL-30",
+          "hcmQTL-33",
+          "hcmQTL-34",
+          "hcmQTL-37",
+          "hcmQTL-65",
+          "hcmQTL-67",
+          "hcmQTL-69",
+          "hcmQTL-70",
+          "hcmQTL-32",
+          "hcmQTL-76",
+          "hcmQTL-77",
+          "hcmQTL-36",
+          "hcmQTL-38",
+          "hcmQTL-56",
+          "hcmQTL-58",
+          "hcmQTL-6",
+          "hcmQTL-18",
+          "hcmQTL-19",
+          "hcmQTL-20",
+          "hcmQTL-74",
+          "hcmQTL-16",
+          "hcmQTL-57",
+          "hcmQTL-9",
+          "hcmQTL-54",
+          "hcmQTL-17",
+          "hcmQTL-45",
+          "hcmQTL-46"
+        ]
+      },
+      {
+        "trait": "composite/mixed visual score",
+        "loci_n": 104,
+        "hit_loci_n": 19,
+        "hit_fraction": 0.18269230769230768,
+        "dataset_families_n": 8,
+        "hcm_ids": [
+          "hcmQTL-1",
+          "hcmQTL-3",
+          "hcmQTL-4",
+          "hcmQTL-29",
+          "hcmQTL-30",
+          "hcmQTL-33",
+          "hcmQTL-34",
+          "hcmQTL-37",
+          "hcmQTL-65",
+          "hcmQTL-67",
+          "hcmQTL-69",
+          "hcmQTL-70",
+          "hcmQTL-19",
+          "hcmQTL-26",
+          "hcmQTL-27",
+          "hcmQTL-55",
+          "hcmQTL-56",
+          "hcmQTL-32",
+          "hcmQTL-45",
+          "hcmQTL-18",
+          "hcmQTL-20"
+        ]
+      },
+      {
+        "trait": "other visual FHB response",
+        "loci_n": 11,
+        "hit_loci_n": 2,
+        "hit_fraction": 0.18181818181818182,
+        "dataset_families_n": 2,
+        "hcm_ids": [
+          "hcmQTL-1",
+          "hcmQTL-46"
+        ]
+      },
+      {
+        "trait": "kernel damage/FDK",
+        "loci_n": 11,
+        "hit_loci_n": 2,
+        "hit_fraction": 0.18181818181818182,
+        "dataset_families_n": 3,
+        "hcm_ids": [
+          "hcmQTL-6",
+          "hcmQTL-7",
+          "hcmQTL-29",
+          "hcmQTL-30"
+        ]
+      },
+      {
+        "trait": "incidence/initial infection",
+        "loci_n": 9,
+        "hit_loci_n": 3,
+        "hit_fraction": 0.3333333333333333,
+        "dataset_families_n": 1,
+        "hcm_ids": [
+          "hcmQTL-4",
+          "hcmQTL-18",
+          "hcmQTL-19",
+          "hcmQTL-20",
+          "hcmQTL-29",
+          "hcmQTL-30"
+        ]
+      }
+    ],
+    "confounder": [
+      {
+        "class": "adjusted_or_source-cleared",
+        "loci_n": 92,
+        "hit_loci_n": 15,
+        "hit_fraction": 0.16304347826086957,
+        "families_n": 6
+      },
+      {
+        "class": "potential_agronomic_confounding",
+        "loci_n": 123,
+        "hit_loci_n": 35,
+        "hit_fraction": 0.2845528455284553,
+        "families_n": 13
+      },
+      {
+        "class": "insufficient_information",
+        "loci_n": 19,
+        "hit_loci_n": 4,
+        "hit_fraction": 0.21052631578947367,
+        "families_n": 4
+      }
+    ],
+    "top_breeding_regions": [
+      {
+        "hcm_id": "hcmQTL-29",
+        "chromosome": "3B",
+        "start_bp": 3000000,
+        "end_bp": 8000000,
+        "historic_original_qtl_count": 50,
+        "postfreeze_locus_hits_n": 5,
+        "independent_dataset_families_n": 3,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score",
+          "incidence/initial infection",
+          "kernel damage/FDK"
+        ],
+        "marker_supported_hits_n": 5,
+        "source_cleared_agronomic_hits_n": 2,
+        "breeding_utility_score": 95,
+        "utility_tier": "A",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300",
+          "DF-PS5V975-SUMAI3-RIL-215",
+          "DF-TRIUMPH-25R51-DH"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-30",
+        "chromosome": "3B",
+        "start_bp": 7000000,
+        "end_bp": 9000000,
+        "historic_original_qtl_count": 44,
+        "postfreeze_locus_hits_n": 5,
+        "independent_dataset_families_n": 3,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score",
+          "incidence/initial infection",
+          "kernel damage/FDK"
+        ],
+        "marker_supported_hits_n": 5,
+        "source_cleared_agronomic_hits_n": 2,
+        "breeding_utility_score": 95,
+        "utility_tier": "A",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300",
+          "DF-PS5V975-SUMAI3-RIL-215",
+          "DF-TRIUMPH-25R51-DH"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-1",
+        "chromosome": "1A",
+        "start_bp": 28000000,
+        "end_bp": 38000000,
+        "historic_original_qtl_count": 9,
+        "postfreeze_locus_hits_n": 3,
+        "independent_dataset_families_n": 3,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score",
+          "other visual FHB response"
+        ],
+        "marker_supported_hits_n": 3,
+        "source_cleared_agronomic_hits_n": 2,
+        "breeding_utility_score": 89,
+        "utility_tier": "A",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300",
+          "DF-CIMMYT-CHINA-PANEL-265",
+          "DF-AGS2060-AGS2035-DH"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-4",
+        "chromosome": "1A",
+        "start_bp": 577000000,
+        "end_bp": 584000000,
+        "historic_original_qtl_count": 5,
+        "postfreeze_locus_hits_n": 3,
+        "independent_dataset_families_n": 3,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score",
+          "incidence/initial infection"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 83,
+        "utility_tier": "A",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300",
+          "DF-TRIUMPH-25R51-DH",
+          "DF-WUHAN1-NYUBAI-DH"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-33",
+        "chromosome": "4A",
+        "start_bp": 583000000,
+        "end_bp": 587000000,
+        "historic_original_qtl_count": 5,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 60,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300",
+          "DF-XN1376-XY81-RIL-198"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-34",
+        "chromosome": "4A",
+        "start_bp": 594000000,
+        "end_bp": 613000000,
+        "historic_original_qtl_count": 5,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 60,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300",
+          "DF-XN1376-XY81-RIL-198"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-6",
+        "chromosome": "1B",
+        "start_bp": 530000000,
+        "end_bp": 546000000,
+        "historic_original_qtl_count": 7,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "kernel damage/FDK",
+          "spread/severity"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 0,
+        "breeding_utility_score": 57,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-AGS2060-AGS2035-DH",
+          "DF-L661-PI672538-RIL-451"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-19",
+        "chromosome": "2D",
+        "start_bp": 26000000,
+        "end_bp": 36000000,
+        "historic_original_qtl_count": 7,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "composite/mixed visual score",
+          "incidence/initial infection",
+          "spread/severity"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 0,
+        "breeding_utility_score": 57,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-JZ66-AK58-DH-209",
+          "DF-TRIUMPH-25R51-DH"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-26",
+        "chromosome": "3A",
+        "start_bp": 50000000,
+        "end_bp": 61000000,
+        "historic_original_qtl_count": 10,
+        "postfreeze_locus_hits_n": 3,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "composite/mixed visual score"
+        ],
+        "marker_supported_hits_n": 3,
+        "source_cleared_agronomic_hits_n": 2,
+        "breeding_utility_score": 56,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-JZ66-AK58-DH-209",
+          "DF-NORDIC-BALTIC-332-LONGITUDINAL"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-45",
+        "chromosome": "5A",
+        "start_bp": 440000000,
+        "end_bp": 454000000,
+        "historic_original_qtl_count": 13,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "composite/mixed visual score",
+          "spread/severity"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 55,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-NORDIC-BALTIC-332-LONGITUDINAL",
+          "DF-WHEATON-SURPRESA-187"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-46",
+        "chromosome": "5A",
+        "start_bp": 464000000,
+        "end_bp": 472000000,
+        "historic_original_qtl_count": 14,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "other visual FHB response",
+          "spread/severity"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 55,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-CIMMYT-CHINA-PANEL-265",
+          "DF-WHEATON-SURPRESA-187"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-56",
+        "chromosome": "5D",
+        "start_bp": 468000000,
+        "end_bp": 476000000,
+        "historic_original_qtl_count": 5,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "composite/mixed visual score",
+          "spread/severity"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 0,
+        "breeding_utility_score": 52,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-JZ66-AK58-DH-209",
+          "DF-XN1376-XY81-RIL-198"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-27",
+        "chromosome": "3A",
+        "start_bp": 61000000,
+        "end_bp": 78000000,
+        "historic_original_qtl_count": 9,
+        "postfreeze_locus_hits_n": 2,
+        "independent_dataset_families_n": 2,
+        "trait_classes": [
+          "composite/mixed visual score"
+        ],
+        "marker_supported_hits_n": 2,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 50,
+        "utility_tier": "B",
+        "family_ids": [
+          "DF-JZ66-AK58-DH-209",
+          "DF-NORDIC-BALTIC-332-LONGITUDINAL"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-3",
+        "chromosome": "1A",
+        "start_bp": 550000000,
+        "end_bp": 570000000,
+        "historic_original_qtl_count": 9,
+        "postfreeze_locus_hits_n": 1,
+        "independent_dataset_families_n": 1,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score"
+        ],
+        "marker_supported_hits_n": 1,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 39,
+        "utility_tier": "C",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300"
+        ]
+      },
+      {
+        "hcm_id": "hcmQTL-37",
+        "chromosome": "4A",
+        "start_bp": 728000000,
+        "end_bp": 743000000,
+        "historic_original_qtl_count": 5,
+        "postfreeze_locus_hits_n": 1,
+        "independent_dataset_families_n": 1,
+        "trait_classes": [
+          "DON/toxin accumulation",
+          "spread/severity",
+          "composite/mixed visual score"
+        ],
+        "marker_supported_hits_n": 1,
+        "source_cleared_agronomic_hits_n": 1,
+        "breeding_utility_score": 39,
+        "utility_tier": "C",
+        "family_ids": [
+          "DF-NMBU-NORDIC-SPRING-300"
+        ]
+      }
+    ],
+    "family_hit_fraction": 0.7368421052631579
+  },
+  "sensitivity": {
+    "analysis": "family_cluster_preserving_enrichment_sensitivity",
+    "dataset_version": "fhb-evidence-freeze-v0.4.0",
+    "generated_at": "2026-08-13T15:58:00.400Z",
+    "iterations": 100000,
+    "primary_null_model": "For each dataset family and chromosome, apply one random circular shift to every locus, preserving within-family chromosome-specific widths, counts, clustering and relative spacing; split wrapped intervals at chromosome boundaries.",
+    "scenarios": [
+      {
+        "label": "all_primary_le200Mb",
+        "rows_n": 234,
+        "families_n": 19,
+        "actual": {
+          "locus_hits": 54,
+          "family_hits": 14
+        },
+        "null_family_hits": {
+          "mean": 11.22303,
+          "q025": 8,
+          "q975": 15
+        },
+        "null_locus_hits": {
+          "mean": 25.48613,
+          "q025": 15,
+          "q975": 40
+        },
+        "empirical_p_upper": {
+          "family": 0.1019989800101999,
+          "locus": 0.00037999620003799963
+        }
+      },
+      {
+        "label": "post2021_primary",
+        "rows_n": 205,
+        "families_n": 12,
+        "actual": {
+          "locus_hits": 48,
+          "family_hits": 11
+        },
+        "null_family_hits": {
+          "mean": 8.10107,
+          "q025": 5,
+          "q975": 11
+        },
+        "null_locus_hits": {
+          "mean": 21.10713,
+          "q025": 11,
+          "q975": 36
+        },
+        "empirical_p_upper": {
+          "family": 0.034999650003499964,
+          "locus": 0.0004999950000499995
+        }
+      },
+      {
+        "label": "width_le100Mb",
+        "rows_n": 229,
+        "families_n": 19,
+        "actual": {
+          "locus_hits": 51,
+          "family_hits": 12
+        },
+        "null_family_hits": {
+          "mean": 10.00331,
+          "q025": 7,
+          "q975": 14
+        },
+        "null_locus_hits": {
+          "mean": 23.05563,
+          "q025": 13,
+          "q975": 38
+        },
+        "empirical_p_upper": {
+          "family": 0.2027079729202708,
+          "locus": 0.0003999960000399996
+        }
+      },
+      {
+        "label": "width_le50Mb",
+        "rows_n": 218,
+        "families_n": 19,
+        "actual": {
+          "locus_hits": 46,
+          "family_hits": 12
+        },
+        "null_family_hits": {
+          "mean": 8.89066,
+          "q025": 5,
+          "q975": 13
+        },
+        "null_locus_hits": {
+          "mean": 19.19418,
+          "q025": 10,
+          "q975": 33
+        },
+        "empirical_p_upper": {
+          "family": 0.07908920910790893,
+          "locus": 0.0006899931000689993
+        }
+      },
+      {
+        "label": "nonpoint_intervals",
+        "rows_n": 189,
+        "families_n": 14,
+        "actual": {
+          "locus_hits": 51,
+          "family_hits": 12
+        },
+        "null_family_hits": {
+          "mean": 8.72736,
+          "q025": 6,
+          "q975": 11
+        },
+        "null_locus_hits": {
+          "mean": 21.86074,
+          "q025": 12,
+          "q975": 36
+        },
+        "empirical_p_upper": {
+          "family": 0.024559754402455974,
+          "locus": 0.00013999860001399987
+        }
+      },
+      {
+        "label": "points_only",
+        "rows_n": 45,
+        "families_n": 7,
+        "actual": {
+          "locus_hits": 3,
+          "family_hits": 2
+        },
+        "null_family_hits": {
+          "mean": 2.58755,
+          "q025": 1,
+          "q975": 5
+        },
+        "null_locus_hits": {
+          "mean": 3.60735,
+          "q025": 1,
+          "q975": 8
+        },
+        "empirical_p_upper": {
+          "family": 0.8314216857831421,
+          "locus": 0.7076229237707623
+        }
+      },
+      {
+        "label": "post2021_width_le50Mb",
+        "rows_n": 193,
+        "families_n": 12,
+        "actual": {
+          "locus_hits": 41,
+          "family_hits": 9
+        },
+        "null_family_hits": {
+          "mean": 6.55819,
+          "q025": 4,
+          "q975": 9
+        },
+        "null_locus_hits": {
+          "mean": 16.45966,
+          "q025": 7,
+          "q975": 31
+        },
+        "empirical_p_upper": {
+          "family": 0.08162918370816293,
+          "locus": 0.001009989900100999
+        }
+      },
+      {
+        "label": "intervals_width_le100Mb",
+        "rows_n": 184,
+        "families_n": 13,
+        "actual": {
+          "locus_hits": 48,
+          "family_hits": 10
+        },
+        "null_family_hits": {
+          "mean": 7.4586,
+          "q025": 5,
+          "q975": 10
+        },
+        "null_locus_hits": {
+          "mean": 19.41337,
+          "q025": 10,
+          "q975": 34
+        },
+        "empirical_p_upper": {
+          "family": 0.07657923420765793,
+          "locus": 0.0003199968000319997
+        }
+      },
+      {
+        "label": "intervals_width_le50Mb",
+        "rows_n": 173,
+        "families_n": 12,
+        "actual": {
+          "locus_hits": 43,
+          "family_hits": 10
+        },
+        "null_family_hits": {
+          "mean": 6.32203,
+          "q025": 4,
+          "q975": 9
+        },
+        "null_locus_hits": {
+          "mean": 15.60646,
+          "q025": 7,
+          "q975": 30
+        },
+        "empirical_p_upper": {
+          "family": 0.013679863201367987,
+          "locus": 0.0003699963000369996
+        }
+      },
+      {
+        "label": "source_cleared_agronomic",
+        "rows_n": 92,
+        "families_n": 6,
+        "actual": {
+          "locus_hits": 15,
+          "family_hits": 4
+        },
+        "null_family_hits": {
+          "mean": 3.4339,
+          "q025": 2,
+          "q975": 5
+        },
+        "null_locus_hits": {
+          "mean": 9.61682,
+          "q025": 4,
+          "q975": 16
+        },
+        "empirical_p_upper": {
+          "family": 0.45252547474525256,
+          "locus": 0.06983930160698393
+        }
+      }
+    ],
+    "interpretation": "Family-level inference is primary for independence. Locus-level P-values are descriptive because multiple loci within a data family are correlated."
+  }
+}
