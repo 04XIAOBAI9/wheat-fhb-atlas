@@ -1,0 +1,22 @@
+{
+  "version": "v0.4.0",
+  "released_at": "2026-08-13",
+  "assembly": "IWGSC Chinese Spring RefSeq v1.0 assembly coordinates; v1.1 annotation coordinates compatible",
+  "public_loci_n": 220,
+  "frozen_study_units_n": 25,
+  "frozen_all_locus_records_n": 387,
+  "public_scope": "strict-primary comparable loci and aggregate analyses only",
+  "withheld_until_authorized": [
+    "full screening queue",
+    "non-primary/excluded locus table",
+    "record-level coordinate-audit table",
+    "research workbook",
+    "scientific report",
+    "integrity-audit working files"
+  ],
+  "frozen_source_sha256": {
+    "study_units": "eb66eb0bb7014939924e8e90d1beb39cec319d5b18a5bb81bbfccab35e58a503",
+    "loci": "32c77e9eade469a422efbb69d62e28eae249907b500d98b5d3acc79166c87a57",
+    "coordinate_audits": "8415e5b19ce9475451e5430817f601ab1472b8e6b81f2f3eb6ba61a2cf048bfd"
+  }
+}
