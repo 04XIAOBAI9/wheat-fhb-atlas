@@ -10,7 +10,7 @@ This audit checks website behavior, coordinate consistency, and disclosure of ev
 |---|---|---|---|
 | LR-2025-XNXY-QFhba-5D.2-1 | 5D:469523881–573814149 | 566080677 | Excluded from interactive map, proximity and batch overlap |
 | LR-2025-XNXY-QFhbp-7A | 7A:708138840–747197703 | 736706236 | Excluded from interactive map, proximity and batch overlap |
-| oQTL-485 | 5D:430040000–676710000 | 566080677 | Excluded from interactive map, proximity and batch overlap |
+| oQTL-485 | 5D:430036700–676713200 | 566080677 | Excluded from interactive map, proximity and batch overlap |
 
 The first two records cite [PMC11989977](https://pmc.ncbi.nlm.nih.gov/articles/PMC11989977/). Their stored endpoints cannot be reconciled with the atlas chromosome lengths as currently represented. This audit does not establish whether the origin is the published table, reference-version attribution, marker mapping, or database curation. No claim about author conduct or paper validity is made. Values are retained, not clipped or relabelled to another assembly.
 
