@@ -1,0 +1,1138 @@
+{
+  "id": "curation-2026-09-05",
+  "applicationVersion": "v0.5.3",
+  "originalFreeze": "v0.5.0",
+  "checkedAt": "2026-09-05",
+  "scope": "Source-table transcription and evidence semantics audit; not a full independent review of every paper.",
+  "sourceArtifacts": [
+    {
+      "name": "peerj-11-15906-s001.docx",
+      "sha256": "331d093a935082198b476106cf72b370d9974b3fd5fcd603ac7a944784191605"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "LR-2023-WANG205-BS00095100-51",
+      "pve": "6.01",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.01
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        3
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-GENE-0071-115",
+      "pve": "6.82",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.82
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        4
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00087544-51",
+      "pve": "5.66",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.66
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        5
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c91176-326",
+      "pve": "5.55",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.55
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        6
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-TA003865-0902",
+      "pve": "5.66",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.66
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        7
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-BE489901D-Ta-2-1",
+      "pve": "5.61",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.61
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        8
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Tdurum-contig19920-463",
+      "pve": "5.7",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.7
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        9
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-D-contig74317-533",
+      "pve": "7.11-7.51",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.11,
+        7.51
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        10
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-BE498985A-Ta-2-1",
+      "pve": "6.11",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.11
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        11
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-BE605194B-Ta-2-1",
+      "pve": "6.11",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.11
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        12
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-BE605194B-Ta-2-7",
+      "pve": "5.87",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.87
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        13
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-GENE-4996-592",
+      "pve": "5.87",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.87
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        14
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Tdurum-contig10677-529",
+      "pve": "6.11",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.11
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        15
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00066342-51",
+      "pve": "7.82",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.82
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        16
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-c14239-1995",
+      "pve": "8.11-8.46",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        8.46,
+        8.11
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        17
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c11587-340",
+      "pve": "6.14",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.14
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        18
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00012071-51",
+      "pve": "6.36",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.36
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        19
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c74466-344",
+      "pve": "6.45",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.45
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        20
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-IAAV3305",
+      "pve": "6.84",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.84
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        21
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-rep-c109397-59",
+      "pve": "5.9",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.9
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        22
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c3948-1315",
+      "pve": "6.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        23
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-c2514-490",
+      "pve": "6.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        24
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-c2514-583",
+      "pve": "6.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        25
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Tdurum-contig25432-1020",
+      "pve": "6.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        26
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Tdurum-contig25432-1218",
+      "pve": "6.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        27
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Tdurum-contig25432-1377",
+      "pve": "6.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        28
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BobWhite-c3073-1156",
+      "pve": "6.28",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.28
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        29
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-Ku-c39334-47795350",
+      "pve": "5.93",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.93
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        30
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-Ku-c39334-47795461",
+      "pve": "6.66",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.66
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        31
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00090253-51",
+      "pve": "6.32",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.32
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        32
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c431-1130",
+      "pve": "6.65",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.65
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        33
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-RAC875-c68978-220",
+      "pve": "6.65",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.65
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        34
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-TA005787-0140",
+      "pve": "6.65",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.65
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        35
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-IAAV9150",
+      "pve": "7.82",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.82
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        36
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-c3009-1702",
+      "pve": "7.82",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.82
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        37
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-RFL-Contig5170-330",
+      "pve": "6.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        38
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Tdurum-contig63703-1143",
+      "pve": "7.38",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.38
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        39
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-Ra-c3996-7334169",
+      "pve": "7.37",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.37
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        40
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c20597-509",
+      "pve": "7.69",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.69
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        41
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-Ex-c7002-12063325",
+      "pve": "5.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        42
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-Ex-c7002-12063380",
+      "pve": "5.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        43
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c7002-314",
+      "pve": "5.98",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.98
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        44
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-CAP11-c3666-426",
+      "pve": "7.04",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.04
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        45
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00025278-51",
+      "pve": "6.56",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.56
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        46
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00025286-51",
+      "pve": "7.07-11.2",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        11.2,
+        7.07
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        47
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-c7902-438",
+      "pve": "6.33",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.33
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        48
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c27675-1815",
+      "pve": "5.93",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.93
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        49
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-CAP7-c1241-128",
+      "pve": "5.9",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.9
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        50
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-tplb0032i02-1435",
+      "pve": "6-6.73",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6,
+        6.73
+      ],
+      "missingCells": 2,
+      "sourceRows": [
+        51,
+        55
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-wsnp-Ra-c21104-30458226",
+      "pve": "6-6.73",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6,
+        6.73
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        52
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Ra-c510-171",
+      "pve": "6.4",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.4
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        53
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-RAC875-c510-923",
+      "pve": "6.36",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.36
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        54
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Tdurum-contig76595-208",
+      "pve": "7.52",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.52
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        56
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00068050-51",
+      "pve": "6.94",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.94
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        57
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00022242-51",
+      "pve": "6.12",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.12
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        58
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-c7087-896",
+      "pve": "6.91-7.86",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.86,
+        6.91
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        59
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Excalibur-c25678-337",
+      "pve": "5.51-6.43",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.43,
+        5.51
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        60
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-RAC875-c35801-905",
+      "pve": "8.39-8.72",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        8.72,
+        8.39
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        61
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-RAC875-c8662-140",
+      "pve": "5.93",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.93
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        62
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-CAP7-c4800-276",
+      "pve": "6.94",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.94
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        63
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-IAAV8455",
+      "pve": "6.29",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.29
+      ],
+      "missingCells": 1,
+      "sourceRows": [
+        64
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-BS00099729-51",
+      "pve": "5.51-5.73",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        5.73,
+        5.51
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        65
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-RAC875-c68525-284",
+      "pve": "6.57-7.27",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        7.27,
+        6.57
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        66
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-RAC875-c18043-411",
+      "pve": "6.9-6.99",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.99,
+        6.9
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        67
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2023-WANG205-Kukri-c4143-1055",
+      "pve": "6.85-6.96",
+      "metric": "PVE",
+      "unit": "percent",
+      "sourceValues": [
+        6.96,
+        6.85
+      ],
+      "missingCells": 0,
+      "sourceRows": [
+        68
+      ],
+      "sourceLocator": "PMC10518165 Supplementary Table S1; disease-spikelet / rachis PVE columns",
+      "paperUrl": "https://doi.org/10.7717/peerj.15906",
+      "reason": "Blank source cells remain missing; they are not zero PVE. Range spans reported environments/traits, not a confidence interval."
+    },
+    {
+      "id": "LR-2022-WSP-Qfhb.ndwp-3A",
+      "pve": "10",
+      "metric": "PVE",
+      "unit": "percent",
+      "rawMetric": "R2 proportion",
+      "sourceValues": [
+        0.1
+      ],
+      "donor": "Wheaton",
+      "sourceLocator": "PMC8818699 Table 4, Qfhb.ndwp-3A, R2 column and its footnote",
+      "paperUrl": "https://doi.org/10.3389/fpls.2021.778472",
+      "reason": "Table reports R2=0.10 as a proportion; percent = proportion × 100, retaining the rounded precision of Table 4."
+    },
+    {
+      "id": "LR-2022-WSP-Qfhb.ndwp-5A",
+      "pve": "11",
+      "metric": "PVE",
+      "unit": "percent",
+      "rawMetric": "R2 proportion",
+      "sourceValues": [
+        0.11
+      ],
+      "donor": "Surpresa",
+      "sourceLocator": "PMC8818699 Table 4, Qfhb.ndwp-5A, R2 column and its footnote",
+      "paperUrl": "https://doi.org/10.3389/fpls.2021.778472",
+      "reason": "Table reports R2=0.11 as a proportion; percent = proportion × 100, retaining the rounded precision of Table 4."
+    },
+    {
+      "id": "LR-2022-WSP-Qfhb.ndwp-6A",
+      "pve": "13",
+      "metric": "PVE",
+      "unit": "percent",
+      "rawMetric": "R2 proportion",
+      "sourceValues": [
+        0.13
+      ],
+      "donor": "Surpresa",
+      "sourceLocator": "PMC8818699 Table 4, Qfhb.ndwp-6A, R2 column and its footnote",
+      "paperUrl": "https://doi.org/10.3389/fpls.2021.778472",
+      "reason": "Table reports R2=0.13 as a proportion; percent = proportion × 100, retaining the rounded precision of Table 4."
+    },
+    {
+      "id": "LR-2022-WSP-Qfhb.ndwp-7A",
+      "pve": "14",
+      "metric": "PVE",
+      "unit": "percent",
+      "rawMetric": "R2 proportion",
+      "sourceValues": [
+        0.14
+      ],
+      "donor": "Wheaton",
+      "sourceLocator": "PMC8818699 Table 4, Qfhb.ndwp-7A, R2 column and its footnote",
+      "paperUrl": "https://doi.org/10.3389/fpls.2021.778472",
+      "reason": "Table reports R2=0.14 as a proportion; percent = proportion × 100, retaining the rounded precision of Table 4."
+    },
+    {
+      "id": "LR-2022-WSP-Qdon.ndwp-1B",
+      "pve": "19",
+      "metric": "PVE",
+      "unit": "percent",
+      "rawMetric": "R2 proportion",
+      "sourceValues": [
+        0.19
+      ],
+      "donor": "Wheaton",
+      "sourceLocator": "PMC8818699 Table 4, Qdon.ndwp-1B, R2 column and its footnote",
+      "paperUrl": "https://doi.org/10.3389/fpls.2021.778472",
+      "reason": "Table reports R2=0.19 as a proportion; percent = proportion × 100, retaining the rounded precision of Table 4."
+    }
+  ]
+}
