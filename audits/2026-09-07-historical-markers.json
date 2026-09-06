@@ -1,0 +1,1857 @@
+{
+  "version": "2026-09-07",
+  "doi": "10.1016/j.cj.2020.10.006",
+  "scope": "Database transcription audit, not independent biological validation",
+  "table1Access": "Web indexed PDF text; direct download 404; page screenshots cache miss. Not visually verified.",
+  "inputs": {
+    "Table S6": {
+      "file": "extract-mmc7.json",
+      "sha256": "ad937d48043da6a00dbefe054db23b2144aa5607bd0b2d414b0c32a5aaccc2ff"
+    },
+    "Table S7 (660K)": {
+      "file": "extract-mmc8.json",
+      "sha256": "47c2d7a1e27e3cccad7367f92287bb484dbc5e7c7aafe0af71ead9c8d60f35a3"
+    }
+  },
+  "records": {
+    "hcmQTL-1": {
+      "ssr": {
+        "count": 187,
+        "examples": [
+          "yzu020456",
+          "yzu028842",
+          "yzu025392"
+        ],
+        "sharedCount": 0,
+        "table1Count": 187,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 103,
+        "examples": [
+          "yzu660C002451",
+          "yzu660C002453",
+          "yzu660C002457"
+        ],
+        "sharedCount": 0,
+        "table1Count": 103,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-2": {
+      "ssr": {
+        "count": 164,
+        "examples": [
+          "yzu015534",
+          "yzu015535",
+          "yzu015177"
+        ],
+        "sharedCount": 0,
+        "table1Count": 164,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 187,
+        "examples": [
+          "yzu660C008714",
+          "yzu660C008719",
+          "yzu660C008725"
+        ],
+        "sharedCount": 0,
+        "table1Count": 187,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-3": {
+      "ssr": {
+        "count": 498,
+        "examples": [
+          "yzu008621",
+          "yzu008620",
+          "yzu012228"
+        ],
+        "sharedCount": 0,
+        "table1Count": 498,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 333,
+        "examples": [
+          "yzu660C020628",
+          "yzu660C020688",
+          "yzu660C020690"
+        ],
+        "sharedCount": 0,
+        "table1Count": 333,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-4": {
+      "ssr": {
+        "count": 186,
+        "examples": [
+          "yzu004938",
+          "yzu009679",
+          "yzu006597"
+        ],
+        "sharedCount": 0,
+        "table1Count": 186,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 164,
+        "examples": [
+          "yzu660C023043",
+          "yzu660C023052",
+          "yzu660C023054"
+        ],
+        "sharedCount": 0,
+        "table1Count": 164,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-5": {
+      "ssr": {
+        "count": 111,
+        "examples": [
+          "yzu061739",
+          "yzu051028",
+          "yzu062034"
+        ],
+        "sharedCount": 0,
+        "table1Count": 111,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 18,
+        "examples": [
+          "yzu660C028519",
+          "yzu660C028521",
+          "yzu660C028536"
+        ],
+        "sharedCount": 0,
+        "table1Count": 18,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-6": {
+      "ssr": {
+        "count": 194,
+        "examples": [
+          "yzu046899",
+          "yzu046900",
+          "yzu046901"
+        ],
+        "sharedCount": 0,
+        "table1Count": 194,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 83,
+        "examples": [
+          "yzu660C035764",
+          "yzu660C035771",
+          "yzu660C035773"
+        ],
+        "sharedCount": 0,
+        "table1Count": 83,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-7": {
+      "ssr": {
+        "count": 142,
+        "examples": [
+          "yzu043687",
+          "yzu038993",
+          "yzu036369"
+        ],
+        "sharedCount": 0,
+        "table1Count": 142,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 99,
+        "examples": [
+          "yzu660C036812",
+          "yzu660C036814",
+          "yzu660C036817"
+        ],
+        "sharedCount": 0,
+        "table1Count": 99,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-8": {
+      "ssr": {
+        "count": 95,
+        "examples": [
+          "yzu037390",
+          "yzu041304",
+          "yzu043913"
+        ],
+        "sharedCount": 0,
+        "table1Count": 95,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 89,
+        "examples": [
+          "yzu660C039352",
+          "yzu660C039353",
+          "yzu660C039355"
+        ],
+        "sharedCount": 0,
+        "table1Count": 89,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-9": {
+      "ssr": {
+        "count": 261,
+        "examples": [
+          "yzu130198",
+          "yzu118965",
+          "yzu120976"
+        ],
+        "sharedCount": 0,
+        "table1Count": 261,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 128,
+        "examples": [
+          "yzu660C050395",
+          "yzu660C050393",
+          "yzu660C050390"
+        ],
+        "sharedCount": 0,
+        "table1Count": 128,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-10": {
+      "ssr": {
+        "count": 222,
+        "examples": [
+          "yzu126423",
+          "yzu124934",
+          "yzu129011"
+        ],
+        "sharedCount": 0,
+        "table1Count": 222,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 106,
+        "examples": [
+          "yzu660C055465",
+          "yzu660C055468",
+          "yzu660C055469"
+        ],
+        "sharedCount": 0,
+        "table1Count": 106,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-11": {
+      "ssr": {
+        "count": 150,
+        "examples": [
+          "yzu096303",
+          "yzu096304",
+          "yzu097779"
+        ],
+        "sharedCount": 0,
+        "table1Count": 150,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 42,
+        "examples": [
+          "yzu660C065553",
+          "yzu660C065554",
+          "yzu660C065563"
+        ],
+        "sharedCount": 0,
+        "table1Count": 42,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-12": {
+      "ssr": {
+        "count": 240,
+        "examples": [
+          "yzu102080",
+          "yzu103365",
+          "yzu103367"
+        ],
+        "sharedCount": 0,
+        "table1Count": 80,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 271,
+        "examples": [
+          "yzu660C068843",
+          "yzu660C068848",
+          "yzu660C068849"
+        ],
+        "sharedCount": 0,
+        "table1Count": 126,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-13": {
+      "ssr": {
+        "count": 258,
+        "examples": [
+          "yzu092539",
+          "yzu142352",
+          "yzu098878"
+        ],
+        "sharedCount": 0,
+        "table1Count": 258,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 187,
+        "examples": [
+          "yzu660C073385",
+          "yzu660C073393",
+          "yzu660C073397"
+        ],
+        "sharedCount": 0,
+        "table1Count": 187,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-14": {
+      "ssr": {
+        "count": 195,
+        "examples": [
+          "yzu179699",
+          "yzu171044",
+          "yzu171045"
+        ],
+        "sharedCount": 0,
+        "table1Count": 195,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 103,
+        "examples": [
+          "yzu660C077601",
+          "yzu660C077602",
+          "yzu660C077612"
+        ],
+        "sharedCount": 0,
+        "table1Count": 103,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-15": {
+      "ssr": {
+        "count": 124,
+        "examples": [
+          "yzu137532",
+          "yzu144825",
+          "yzu141554"
+        ],
+        "sharedCount": 0,
+        "table1Count": 124,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 90,
+        "examples": [
+          "yzu660C090718",
+          "yzu660C090722",
+          "yzu660C090723"
+        ],
+        "sharedCount": 0,
+        "table1Count": 90,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-16": {
+      "ssr": {
+        "count": 271,
+        "examples": [
+          "yzu158052",
+          "yzu157980",
+          "yzu157981"
+        ],
+        "sharedCount": 0,
+        "table1Count": 271,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 125,
+        "examples": [
+          "yzu660C096149",
+          "yzu660C096150",
+          "yzu660C096156"
+        ],
+        "sharedCount": 0,
+        "table1Count": 125,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-17": {
+      "ssr": {
+        "count": 250,
+        "examples": [
+          "yzu138105",
+          "yzu161499",
+          "yzu162261"
+        ],
+        "sharedCount": 0,
+        "table1Count": 250,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 105,
+        "examples": [
+          "yzu660C098885",
+          "yzu660C098891",
+          "yzu660C098897"
+        ],
+        "sharedCount": 0,
+        "table1Count": 105,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-18": {
+      "ssr": {
+        "count": 152,
+        "examples": [
+          "yzu213861",
+          "yzu218362",
+          "yzu208563"
+        ],
+        "sharedCount": 0,
+        "table1Count": 152,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 56,
+        "examples": [
+          "yzu660C105770",
+          "yzu660C105775",
+          "yzu660C105776"
+        ],
+        "sharedCount": 0,
+        "table1Count": 56,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-19": {
+      "ssr": {
+        "count": 213,
+        "examples": [
+          "yzu210692",
+          "yzu214125",
+          "yzu214126"
+        ],
+        "sharedCount": 85,
+        "table1Count": 213,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 46,
+        "examples": [
+          "yzu660C106143",
+          "yzu660C106150",
+          "yzu660C106151"
+        ],
+        "sharedCount": 16,
+        "table1Count": 46,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-20": {
+      "ssr": {
+        "count": 311,
+        "examples": [
+          "yzu220421",
+          "yzu220422",
+          "yzu213511"
+        ],
+        "sharedCount": 85,
+        "table1Count": 311,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 63,
+        "examples": [
+          "yzu660C106351",
+          "yzu660C106347",
+          "yzu660C106337"
+        ],
+        "sharedCount": 16,
+        "table1Count": 63,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-21": {
+      "ssr": {
+        "count": 283,
+        "examples": [
+          "yzu206150",
+          "yzu192875",
+          "yzu207155"
+        ],
+        "sharedCount": 0,
+        "table1Count": 283,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 192,
+        "examples": [
+          "yzu660C111451",
+          "yzu660C111452",
+          "yzu660C111453"
+        ],
+        "sharedCount": 0,
+        "table1Count": 192,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-22": {
+      "ssr": {
+        "count": 270,
+        "examples": [
+          "yzu196277",
+          "yzu192001",
+          "yzu201183"
+        ],
+        "sharedCount": 0,
+        "table1Count": 270,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 72,
+        "examples": [
+          "yzu660C113251",
+          "yzu660C113256",
+          "yzu660C113263"
+        ],
+        "sharedCount": 0,
+        "table1Count": 72,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-23": {
+      "ssr": {
+        "count": 106,
+        "examples": [
+          "yzu243597",
+          "yzu241108",
+          "yzu240935"
+        ],
+        "sharedCount": 0,
+        "table1Count": 106,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 66,
+        "examples": [
+          "yzu660C115215",
+          "yzu660C115218",
+          "yzu660C115230"
+        ],
+        "sharedCount": 0,
+        "table1Count": 66,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-24": {
+      "ssr": {
+        "count": 77,
+        "examples": [
+          "yzu244327",
+          "yzu238732",
+          "yzu245627"
+        ],
+        "sharedCount": 0,
+        "table1Count": 77,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 80,
+        "examples": [
+          "yzu660C115645",
+          "yzu660C115659",
+          "yzu660C115660"
+        ],
+        "sharedCount": 0,
+        "table1Count": 80,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-25": {
+      "ssr": {
+        "count": 101,
+        "examples": [
+          "yzu237475",
+          "yzu249296",
+          "yzu237052"
+        ],
+        "sharedCount": 0,
+        "table1Count": 101,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 55,
+        "examples": [
+          "yzu660C116398",
+          "yzu660C116405",
+          "yzu660C116407"
+        ],
+        "sharedCount": 0,
+        "table1Count": 55,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-26": {
+      "ssr": {
+        "count": 168,
+        "examples": [
+          "yzu245086",
+          "yzu242651",
+          "yzu249064"
+        ],
+        "sharedCount": 0,
+        "table1Count": 168,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 95,
+        "examples": [
+          "yzu660C116768",
+          "yzu660C116777",
+          "yzu660C116786"
+        ],
+        "sharedCount": 0,
+        "table1Count": 95,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-27": {
+      "ssr": {
+        "count": 170,
+        "examples": [
+          "yzu239087",
+          "yzu237310",
+          "yzu646636"
+        ],
+        "sharedCount": 0,
+        "table1Count": 170,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 70,
+        "examples": [
+          "yzu660C169857",
+          "yzu660C117183",
+          "yzu660C117185"
+        ],
+        "sharedCount": 0,
+        "table1Count": 70,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-28": {
+      "ssr": {
+        "count": 177,
+        "examples": [
+          "yzu226137",
+          "yzu234981",
+          "yzu225263"
+        ],
+        "sharedCount": 0,
+        "table1Count": 160,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 41,
+        "examples": [
+          "yzu660C120309",
+          "yzu660C120330",
+          "yzu660C120334"
+        ],
+        "sharedCount": 0,
+        "table1Count": 41,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-29": {
+      "ssr": {
+        "count": 172,
+        "examples": [
+          "yzu290247",
+          "yzu255331",
+          "yzu255332"
+        ],
+        "sharedCount": 38,
+        "table1Count": 172,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 76,
+        "examples": [
+          "yzu660C131581",
+          "yzu660C131588",
+          "yzu660C131596"
+        ],
+        "sharedCount": 30,
+        "table1Count": 76,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-30": {
+      "ssr": {
+        "count": 84,
+        "examples": [
+          "yzu264430",
+          "yzu264432",
+          "yzu281601"
+        ],
+        "sharedCount": 38,
+        "table1Count": 84,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 54,
+        "examples": [
+          "yzu660C131746",
+          "yzu660C131750",
+          "yzu660C131752"
+        ],
+        "sharedCount": 30,
+        "table1Count": 54,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-31": {
+      "ssr": {
+        "count": 111,
+        "examples": [
+          "yzu292061",
+          "yzu254323",
+          "yzu270726"
+        ],
+        "sharedCount": 0,
+        "table1Count": 111,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 140,
+        "examples": [
+          "yzu660C142933",
+          "yzu660C142936",
+          "yzu660C142938"
+        ],
+        "sharedCount": 0,
+        "table1Count": 140,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-32": {
+      "ssr": {
+        "count": 172,
+        "examples": [
+          "yzu251312",
+          "yzu251313",
+          "yzu296018"
+        ],
+        "sharedCount": 0,
+        "table1Count": 172,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 96,
+        "examples": [
+          "yzu660C158592",
+          "yzu660C158593",
+          "yzu660C158606"
+        ],
+        "sharedCount": 0,
+        "table1Count": 96,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-33": {
+      "ssr": {
+        "count": 92,
+        "examples": [
+          "yzu334793",
+          "yzu334791",
+          "yzu334790"
+        ],
+        "sharedCount": 0,
+        "table1Count": 92,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 27,
+        "examples": [
+          "yzu660C187005",
+          "yzu660C187006",
+          "yzu660C187010"
+        ],
+        "sharedCount": 0,
+        "table1Count": 27,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-34": {
+      "ssr": {
+        "count": 602,
+        "examples": [
+          "yzu349838",
+          "yzu349839",
+          "yzu339635"
+        ],
+        "sharedCount": 0,
+        "table1Count": 602,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 242,
+        "examples": [
+          "yzu660C187305",
+          "yzu660C187307",
+          "yzu660C187309"
+        ],
+        "sharedCount": 0,
+        "table1Count": 242,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-35": {
+      "ssr": {
+        "count": 252,
+        "examples": [
+          "yzu341282",
+          "yzu328664",
+          "yzu328665"
+        ],
+        "sharedCount": 0,
+        "table1Count": 252,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 259,
+        "examples": [
+          "yzu660C190983",
+          "yzu660C190988",
+          "yzu660C190991"
+        ],
+        "sharedCount": 0,
+        "table1Count": 259,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-36": {
+      "ssr": {
+        "count": 246,
+        "examples": [
+          "yzu336284",
+          "yzu345666",
+          "yzu347544"
+        ],
+        "sharedCount": 0,
+        "table1Count": 246,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 111,
+        "examples": [
+          "yzu660C194090",
+          "yzu660C194094",
+          "yzu660C194095"
+        ],
+        "sharedCount": 0,
+        "table1Count": 111,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-37": {
+      "ssr": {
+        "count": 629,
+        "examples": [
+          "yzu345517",
+          "yzu350196",
+          "yzu350195"
+        ],
+        "sharedCount": 0,
+        "table1Count": 629,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 142,
+        "examples": [
+          "yzu660C195552",
+          "yzu660C195555",
+          "yzu660C195557"
+        ],
+        "sharedCount": 0,
+        "table1Count": 142,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-38": {
+      "ssr": {
+        "count": 197,
+        "examples": [
+          "yzu401468",
+          "yzu399434",
+          "yzu403450"
+        ],
+        "sharedCount": 0,
+        "table1Count": 197,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 29,
+        "examples": [
+          "yzu660C197536",
+          "yzu660C197537",
+          "yzu660C197543"
+        ],
+        "sharedCount": 0,
+        "table1Count": 29,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-39": {
+      "ssr": {
+        "count": 298,
+        "examples": [
+          "yzu400445",
+          "yzu397622",
+          "yzu397737"
+        ],
+        "sharedCount": 0,
+        "table1Count": 298,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 39,
+        "examples": [
+          "yzu660C198199",
+          "yzu660C198205",
+          "yzu660C198207"
+        ],
+        "sharedCount": 0,
+        "table1Count": 39,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-40": {
+      "ssr": {
+        "count": 197,
+        "examples": [
+          "yzu386310",
+          "yzu377885",
+          "yzu375050"
+        ],
+        "sharedCount": 0,
+        "table1Count": 197,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 59,
+        "examples": [
+          "yzu660C202048",
+          "yzu660C202050",
+          "yzu660C202051"
+        ],
+        "sharedCount": 0,
+        "table1Count": 59,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-41": {
+      "ssr": {
+        "count": 91,
+        "examples": [
+          "yzu436160",
+          "yzu430775",
+          "yzu430776"
+        ],
+        "sharedCount": 0,
+        "table1Count": 91,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": null,
+        "examples": [],
+        "sharedCount": 0,
+        "table1Count": 28,
+        "sourceTable": "Table S7 (660K)",
+        "status": "not found in available supplement; not zero"
+      }
+    },
+    "hcmQTL-42": {
+      "ssr": {
+        "count": 164,
+        "examples": [
+          "yzu426003",
+          "yzu426002",
+          "yzu416430"
+        ],
+        "sharedCount": 0,
+        "table1Count": 164,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": null,
+        "examples": [],
+        "sharedCount": 0,
+        "table1Count": 36,
+        "sourceTable": "Table S7 (660K)",
+        "status": "not found in available supplement; not zero"
+      }
+    },
+    "hcmQTL-43": {
+      "ssr": {
+        "count": 266,
+        "examples": [
+          "yzu426087",
+          "yzu422795",
+          "yzu414993"
+        ],
+        "sharedCount": 0,
+        "table1Count": 266,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": null,
+        "examples": [],
+        "sharedCount": 0,
+        "table1Count": 97,
+        "sourceTable": "Table S7 (660K)",
+        "status": "not found in available supplement; not zero"
+      }
+    },
+    "hcmQTL-44": {
+      "ssr": {
+        "count": 71,
+        "examples": [
+          "yzu461223",
+          "yzu465205",
+          "yzu470353"
+        ],
+        "sharedCount": 0,
+        "table1Count": 71,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 56,
+        "examples": [
+          "yzu660C217234",
+          "yzu660C217236",
+          "yzu660C217240"
+        ],
+        "sharedCount": 0,
+        "table1Count": 56,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-45": {
+      "ssr": {
+        "count": 193,
+        "examples": [
+          "yzu452734",
+          "yzu449050",
+          "yzu445648"
+        ],
+        "sharedCount": 0,
+        "table1Count": 193,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 124,
+        "examples": [
+          "yzu660C221228",
+          "yzu660C221232",
+          "yzu660C221233"
+        ],
+        "sharedCount": 0,
+        "table1Count": 124,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-46": {
+      "ssr": {
+        "count": 100,
+        "examples": [
+          "yzu450937",
+          "yzu451260",
+          "yzu445079"
+        ],
+        "sharedCount": 0,
+        "table1Count": 100,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 66,
+        "examples": [
+          "yzu660C222246",
+          "yzu660C222249",
+          "yzu660C222250"
+        ],
+        "sharedCount": 0,
+        "table1Count": 66,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-47": {
+      "ssr": {
+        "count": 325,
+        "examples": [
+          "yzu459089",
+          "yzu446200",
+          "yzu459241"
+        ],
+        "sharedCount": 0,
+        "table1Count": 325,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 63,
+        "examples": [
+          "yzu660C230240",
+          "yzu660C230245",
+          "yzu660C230247"
+        ],
+        "sharedCount": 0,
+        "table1Count": 63,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-48": {
+      "ssr": {
+        "count": 212,
+        "examples": [
+          "yzu458592",
+          "yzu458593",
+          "yzu458810"
+        ],
+        "sharedCount": 0,
+        "table1Count": 212,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 142,
+        "examples": [
+          "yzu660C231658",
+          "yzu660C231662",
+          "yzu660C231663"
+        ],
+        "sharedCount": 0,
+        "table1Count": 142,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-49": {
+      "ssr": {
+        "count": 133,
+        "examples": [
+          "yzu508466",
+          "yzu505861",
+          "yzu505859"
+        ],
+        "sharedCount": 0,
+        "table1Count": 133,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 40,
+        "examples": [
+          "yzu660C234468",
+          "yzu660C234475",
+          "yzu660C234476"
+        ],
+        "sharedCount": 0,
+        "table1Count": 40,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-50": {
+      "ssr": {
+        "count": 157,
+        "examples": [
+          "yzu484650",
+          "yzu488419",
+          "yzu488420"
+        ],
+        "sharedCount": 0,
+        "table1Count": 157,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 22,
+        "examples": [
+          "yzu660C245426",
+          "yzu660C245427",
+          "yzu660C245429"
+        ],
+        "sharedCount": 0,
+        "table1Count": 22,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-51": {
+      "ssr": {
+        "count": 407,
+        "examples": [
+          "yzu497251",
+          "yzu494625",
+          "yzu477842"
+        ],
+        "sharedCount": 0,
+        "table1Count": 407,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 285,
+        "examples": [
+          "yzu660C251147",
+          "yzu660C251151",
+          "yzu660C251156"
+        ],
+        "sharedCount": 0,
+        "table1Count": 285,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-52": {
+      "ssr": {
+        "count": 254,
+        "examples": [
+          "yzu490579",
+          "yzu473834",
+          "yzu473835"
+        ],
+        "sharedCount": 0,
+        "table1Count": 254,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 149,
+        "examples": [
+          "yzu660C253257",
+          "yzu660C253258",
+          "yzu660C253260"
+        ],
+        "sharedCount": 0,
+        "table1Count": 149,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-53": {
+      "ssr": {
+        "count": 280,
+        "examples": [
+          "yzu486072",
+          "yzu486073",
+          "yzu497854"
+        ],
+        "sharedCount": 0,
+        "table1Count": 280,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 151,
+        "examples": [
+          "yzu660C255068",
+          "yzu660C255074",
+          "yzu660C255079"
+        ],
+        "sharedCount": 0,
+        "table1Count": 151,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-54": {
+      "ssr": {
+        "count": 70,
+        "examples": [
+          "yzu478280",
+          "yzu484227",
+          "yzu484226"
+        ],
+        "sharedCount": 0,
+        "table1Count": 70,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 33,
+        "examples": [
+          "yzu660C257712",
+          "yzu660C257713",
+          "yzu660C257717"
+        ],
+        "sharedCount": 0,
+        "table1Count": 33,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-55": {
+      "ssr": {
+        "count": 271,
+        "examples": [
+          "yzu525909",
+          "yzu520438",
+          "yzu526180"
+        ],
+        "sharedCount": 0,
+        "table1Count": 271,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 49,
+        "examples": [
+          "yzu660C265167",
+          "yzu660C265174",
+          "yzu660C265187"
+        ],
+        "sharedCount": 0,
+        "table1Count": 49,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-56": {
+      "ssr": {
+        "count": 153,
+        "examples": [
+          "yzu526777",
+          "yzu526775",
+          "yzu526774"
+        ],
+        "sharedCount": 0,
+        "table1Count": 153,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 22,
+        "examples": [
+          "yzu660C265581",
+          "yzu660C265582",
+          "yzu660C265587"
+        ],
+        "sharedCount": 0,
+        "table1Count": 22,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-57": {
+      "ssr": {
+        "count": 235,
+        "examples": [
+          "yzu564349",
+          "yzu568253",
+          "yzu568252"
+        ],
+        "sharedCount": 0,
+        "table1Count": 235,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 118,
+        "examples": [
+          "yzu660C269881",
+          "yzu660C269886",
+          "yzu660C269890"
+        ],
+        "sharedCount": 0,
+        "table1Count": 118,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-58": {
+      "ssr": {
+        "count": 216,
+        "examples": [
+          "yzu579470",
+          "yzu579733",
+          "yzu578842"
+        ],
+        "sharedCount": 0,
+        "table1Count": 216,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 182,
+        "examples": [
+          "yzu660C272136",
+          "yzu660C272143",
+          "yzu660C272145"
+        ],
+        "sharedCount": 0,
+        "table1Count": 182,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-59": {
+      "ssr": {
+        "count": 222,
+        "examples": [
+          "yzu566296",
+          "yzu566708",
+          "yzu569177"
+        ],
+        "sharedCount": 0,
+        "table1Count": 222,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 32,
+        "examples": [
+          "yzu660C275805",
+          "yzu660C275824",
+          "yzu660C275828"
+        ],
+        "sharedCount": 0,
+        "table1Count": 32,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-60": {
+      "ssr": {
+        "count": 112,
+        "examples": [
+          "yzu555654",
+          "yzu555653",
+          "yzu554227"
+        ],
+        "sharedCount": 0,
+        "table1Count": 112,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 70,
+        "examples": [
+          "yzu660C278130",
+          "yzu660C278136",
+          "yzu660C278147"
+        ],
+        "sharedCount": 0,
+        "table1Count": 70,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-61": {
+      "ssr": {
+        "count": 270,
+        "examples": [
+          "yzu611219",
+          "yzu612463",
+          "yzu612464"
+        ],
+        "sharedCount": 0,
+        "table1Count": 270,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 48,
+        "examples": [
+          "yzu660C286081",
+          "yzu660C286095",
+          "yzu660C286098"
+        ],
+        "sharedCount": 0,
+        "table1Count": 48,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-62": {
+      "ssr": {
+        "count": 104,
+        "examples": [
+          "yzu602725",
+          "yzu599922",
+          "yzu603385"
+        ],
+        "sharedCount": 0,
+        "table1Count": 104,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 86,
+        "examples": [
+          "yzu660C288389",
+          "yzu660C288394",
+          "yzu660C288399"
+        ],
+        "sharedCount": 0,
+        "table1Count": 86,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-63": {
+      "ssr": {
+        "count": 141,
+        "examples": [
+          "yzu582522",
+          "yzu585594",
+          "yzu584351"
+        ],
+        "sharedCount": 0,
+        "table1Count": 141,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 116,
+        "examples": [
+          "yzu660C296529",
+          "yzu660C296533",
+          "yzu660C296536"
+        ],
+        "sharedCount": 0,
+        "table1Count": 116,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-64": {
+      "ssr": {
+        "count": 232,
+        "examples": [
+          "yzu586390",
+          "yzu581155",
+          "yzu597218"
+        ],
+        "sharedCount": 0,
+        "table1Count": 232,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 52,
+        "examples": [
+          "yzu660C300208",
+          "yzu660C300213",
+          "yzu660C300214"
+        ],
+        "sharedCount": 0,
+        "table1Count": 52,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-65": {
+      "ssr": {
+        "count": 392,
+        "examples": [
+          "yzu597606",
+          "yzu581132",
+          "yzu595755"
+        ],
+        "sharedCount": 0,
+        "table1Count": 392,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 133,
+        "examples": [
+          "yzu660C302898",
+          "yzu660C302913",
+          "yzu660C302921"
+        ],
+        "sharedCount": 0,
+        "table1Count": 133,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-66": {
+      "ssr": {
+        "count": 275,
+        "examples": [
+          "yzu663765",
+          "yzu663764",
+          "yzu663760"
+        ],
+        "sharedCount": 0,
+        "table1Count": 275,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 98,
+        "examples": [
+          "yzu660C315617",
+          "yzu660C315615",
+          "yzu660C315642"
+        ],
+        "sharedCount": 0,
+        "table1Count": 98,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-67": {
+      "ssr": {
+        "count": 316,
+        "examples": [
+          "yzu662359",
+          "yzu658686",
+          "yzu664660"
+        ],
+        "sharedCount": 0,
+        "table1Count": 316,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 181,
+        "examples": [
+          "yzu660C318493",
+          "yzu660C318498",
+          "yzu660C318499"
+        ],
+        "sharedCount": 0,
+        "table1Count": 181,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-68": {
+      "ssr": {
+        "count": 230,
+        "examples": [
+          "yzu655042",
+          "yzu651975",
+          "yzu651973"
+        ],
+        "sharedCount": 0,
+        "table1Count": 230,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 111,
+        "examples": [
+          "yzu660C330168",
+          "yzu660C330170",
+          "yzu660C330172"
+        ],
+        "sharedCount": 0,
+        "table1Count": 111,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-69": {
+      "ssr": {
+        "count": 325,
+        "examples": [
+          "yzu651286",
+          "yzu652192",
+          "yzu645878"
+        ],
+        "sharedCount": 0,
+        "table1Count": 325,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 75,
+        "examples": [
+          "yzu660C331719",
+          "yzu660C331721",
+          "yzu660C331728"
+        ],
+        "sharedCount": 0,
+        "table1Count": 75,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-70": {
+      "ssr": {
+        "count": 133,
+        "examples": [
+          "yzu653817",
+          "yzu653818",
+          "yzu653097"
+        ],
+        "sharedCount": 0,
+        "table1Count": 133,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 66,
+        "examples": [
+          "yzu660C332939",
+          "yzu660C332926",
+          "yzu660C332925"
+        ],
+        "sharedCount": 0,
+        "table1Count": 66,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-71": {
+      "ssr": {
+        "count": 80,
+        "examples": [
+          "yzu698227",
+          "yzu698226",
+          "yzu703168"
+        ],
+        "sharedCount": 0,
+        "table1Count": 80,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 37,
+        "examples": [
+          "yzu660C337107",
+          "yzu660C337108",
+          "yzu660C337113"
+        ],
+        "sharedCount": 0,
+        "table1Count": 37,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-72": {
+      "ssr": {
+        "count": 146,
+        "examples": [
+          "yzu697490",
+          "yzu697011",
+          "yzu697010"
+        ],
+        "sharedCount": 0,
+        "table1Count": 146,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 123,
+        "examples": [
+          "yzu660C337624",
+          "yzu660C337628",
+          "yzu660C337640"
+        ],
+        "sharedCount": 0,
+        "table1Count": 123,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-73": {
+      "ssr": {
+        "count": 201,
+        "examples": [
+          "yzu691551",
+          "yzu690992",
+          "yzu695760"
+        ],
+        "sharedCount": 0,
+        "table1Count": 201,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 110,
+        "examples": [
+          "yzu660C340626",
+          "yzu660C340635",
+          "yzu660C340636"
+        ],
+        "sharedCount": 0,
+        "table1Count": 110,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-74": {
+      "ssr": {
+        "count": 500,
+        "examples": [
+          "yzu677748",
+          "yzu675524",
+          "yzu672927"
+        ],
+        "sharedCount": 0,
+        "table1Count": 500,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 202,
+        "examples": [
+          "yzu660C349016",
+          "yzu660C349025",
+          "yzu660C349026"
+        ],
+        "sharedCount": 0,
+        "table1Count": 202,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-75": {
+      "ssr": {
+        "count": 72,
+        "examples": [
+          "yzu671264",
+          "yzu673934",
+          "yzu672331"
+        ],
+        "sharedCount": 0,
+        "table1Count": 72,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 36,
+        "examples": [
+          "yzu660C350011",
+          "yzu660C350019",
+          "yzu660C350021"
+        ],
+        "sharedCount": 0,
+        "table1Count": 36,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-76": {
+      "ssr": {
+        "count": 259,
+        "examples": [
+          "yzu721559",
+          "yzu732458",
+          "yzu729216"
+        ],
+        "sharedCount": 0,
+        "table1Count": 259,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 32,
+        "examples": [
+          "yzu660C354348",
+          "yzu660C354351",
+          "yzu660C354352"
+        ],
+        "sharedCount": 0,
+        "table1Count": 32,
+        "sourceTable": "Table S7 (660K)"
+      }
+    },
+    "hcmQTL-77": {
+      "ssr": {
+        "count": 160,
+        "examples": [
+          "yzu710912",
+          "yzu718010",
+          "yzu714519"
+        ],
+        "sharedCount": 0,
+        "table1Count": 160,
+        "sourceTable": "Table S6"
+      },
+      "caps": {
+        "count": 30,
+        "examples": [
+          "yzu660C357631",
+          "yzu660C357635",
+          "yzu660C357639"
+        ],
+        "sharedCount": 0,
+        "table1Count": 30,
+        "sourceTable": "Table S7 (660K)"
+      }
+    }
+  }
+}
